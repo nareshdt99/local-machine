@@ -4,7 +4,7 @@ pipeline {
     stage('checkout-scm'){
         steps {
             sh 'echo stage1'
-            git branch: 'main', url: 'https://github.com/nareshdt99/mainproject.git'
+            git branch: 'main', url: 'https://github.com/nareshdt99/local-machine.git'
         }
     }
     stage('compile'){
