@@ -1,1 +1,1 @@
-35.200.145.110 ansible_user=devops ansible_ssh_pass=today@1234
+34.100.194.10 ansible_user=devops ansible_ssh_pass=today@1234
